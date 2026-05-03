@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-<!--
+I'm Sathvik a CS student in my Final Semester 
+<!--I
 **Sathvik0077x/Sathvik0077x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
