@@ -1,6 +1,10 @@
 ## Hi there 👋
 
 I'm Sathvik a CS student in my Final Semester 
+
+I just solve my everyday problems with new apps or solutions , so if you have the same problems use my solution s
+
+PEACE
 <!--I
 **Sathvik0077x/Sathvik0077x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
