@@ -1,21 +1,40 @@
-## Hi there 👋
+# Hey, I'm Sathvik 👋
 
-I'm Sathvik a CS student in my Final Semester 
+### Final Year CS Student • App Builder • Professional Problem Overthinker
 
-I just solve my everyday problems with new apps or solutions , so if you have the same problems use my solutions
+I like building apps that solve random everyday problems.
 
-PEACE
-<!--I
-**Sathvik0077x/Sathvik0077x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Most of my projects start with:
+> "Why does this not exist already?"
 
-Here are some ideas to get you started:
+and end with:
+> 17 tabs open, no sleep, and somehow... a working product.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 What I'm Into
+
+- AI Apps
+- Automation
+- Full Stack Development
+- Building weird but useful tools
+- Startup ideas at 2AM
+- Turning laziness into software
+
+---
+
+## 🛠 Currently Building
+
+- AI-powered products
+- Student-focused platforms
+- Automation tools
+- Apps that make life less annoying
+
+---
+
+## 🧠 Tech I Use
+
+```txt
+Python • JavaScript • React • Node.js
+MongoDB • Firebase • APIs • Git
+AI/LLMs • RAG • Automation
