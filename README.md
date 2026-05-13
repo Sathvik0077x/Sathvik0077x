@@ -31,10 +31,3 @@ and end with:
 - Apps that make life less annoying
 
 ---
-
-## 🧠 Tech I Use
-
-```txt
-Python • JavaScript • React • Node.js
-MongoDB • Firebase • APIs • Git
-AI/LLMs • RAG • Automation
