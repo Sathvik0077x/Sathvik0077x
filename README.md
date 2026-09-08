@@ -1,6 +1,6 @@
 # Hey, I'm Sathvik 👋
 
-### Final Year CS Student • App Builder • Professional Problem Overthinker
+### CS Graduate • App Builder • Professional Problem Overthinker
 
 I like building apps that solve random everyday problems.
 
